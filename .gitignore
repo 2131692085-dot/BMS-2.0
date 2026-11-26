@@ -1,0 +1,12 @@
+# Keil MDK 编译产物
+MDK-ARM/bms-project/
+MDK-ARM/*.lst
+MDK-ARM/*.uvguix.*
+MDK-ARM/JLinkLog.txt
+MDK-ARM/DebugConfig/
+MDK-ARM/.vscode/
+
+# 备份与临时文件
+*.bak
+*.dep
+*.log
